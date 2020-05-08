@@ -5,7 +5,7 @@
   "author": "kayak <41324271+by-k4y4k@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "eslint": "^6.0.0",
+    "eslint": "^7.0.0",
     "grunt": "^1.0.4",
     "grunt-sass": "^3.0.2",
     "gulp": "^4.0.1",
